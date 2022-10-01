@@ -4,7 +4,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">		
 	<link rel="stylesheet" href="proposal.css">
 				<meta charset="UTF-8">
-				<title>Hi Lovely 👋</title>
+				<title>Proposal</title>
 </head>
 <body>
 				<div class="g1">
@@ -73,9 +73,33 @@
 				</div>
 				
 				<div class="fff">
-								<p>created by Andre Jarl</p>
+								<p>Jan Jeff</p>
 				</div>
 				
 				<script src="proposalv2.js"></script>
+</body>
+</html>
+          
+<!DOCTYPE html>
+<html lang="en">
+<head>
+				
+			<link rel="stylesheet" href="yes.css">	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+				<meta charset="UTF-8">
+				<title>hehe tayo na</title>
+</head>
+<body>
+				<div class="kilig">
+								
+								
+				<img src="kiligsss.jpeg" alt="">
+				
+				<img src="packilig.jpeg" alt="">
+				<p class="ay">AYIEE slide through my dms plssss <3</p>
+				<p class="ay">Welcome to my life my honey bunch sugar plum loml i love you<3 hahahahahaha</p>
+				<audio id="sound" controls autoplay src="Kinikilig.mp3"></audio>
+				<img src="crykilig.jpeg" alt="">
+				</div>
+	
 </body>
 </html>
